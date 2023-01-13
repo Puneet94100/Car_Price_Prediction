@@ -2,6 +2,9 @@
 # Title of Project
 
 ## Car Price Prediction
+
+![1_ftnM93QhlS0A7I55QegbrA](https://user-images.githubusercontent.com/114376944/212347276-a3972028-72e7-4058-8a46-6d867f41e0a7.jpeg)
+
 # Description
 The cardheko data set is extracted out from cardheko website.
 This dataset contains 8183 rows and 13 columns.
@@ -16,6 +19,7 @@ To downlad the data set you can refer to this link:-
 https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
 
 
+![car_dheko](https://user-images.githubusercontent.com/114376944/212347527-a2db0509-a160-4108-9854-1bfeecbc2ef9.PNG)
 
 
 ## Importance or Use case
